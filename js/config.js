@@ -1,6 +1,6 @@
 const CONFIG = {
   // URL del webhook de n8n que recibe los archivos
-  N8N_WEBHOOK_URL: "https://TU-INSTANCIA-N8N/webhook/auditoria-ocasa",
+  N8N_WEBHOOK_URL: "https://n8nappv2.ocasa.com:5688/webhook/8dd1f4e7-83f0-420f-a172-5a9b8899e835",
 
   // URL directa del Google Sheet publicado como CSV
   SHEET_CSV_URL: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQe0eOwwwGNM8kDEKf3kjucDfY573r5ke_bTTJQtdnCq3Og8Yr5fQDXKb2rwGAlbbWHbJQMz4EPYiXJ/pub?gid=1235035978&single=true&output=csv",
